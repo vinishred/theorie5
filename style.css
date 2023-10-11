@@ -1,0 +1,17 @@
+h1 {
+  background-color: aqua;
+}
+h2 {
+  background-color: yellow;
+}
+button {
+  height: 100px;
+  width: 250px;
+  background-color: lightcoral;
+}
+[data-dot] {
+  border-radius: 100%;
+  height: 250px;
+  width: 250px;
+  background-color: blueviolet;
+}
